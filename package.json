@@ -1,0 +1,15 @@
+{
+  "name": "rest-tut",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon resource.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.1",
+    "puppeteer": "^7.0.4"
+  }
+}
